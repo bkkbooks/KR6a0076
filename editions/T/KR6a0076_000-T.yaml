@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6a0076/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 梵摩渝經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T01/T01n0076.xml
+    old_id: T01n0076
+hash: sha256:aae05a70a39bacb1eea2cba468392fad30924b5024a1c6671938ce39a41dac15

@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6a0076/T/v1
+canonical_location: https://kanripo.org/bkk/KR6a0076/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 梵摩渝經
+  identifiers:
+    krp: KR6a0076
+    cbeta: T01n0076
+    cbeta_old_id: T01n0076
+    authorityid: CA0000964
+    json_key: T0076
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T01/T01n0076.xml
+    old_id: T01n0076
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6a0076_000-T.yaml, hash: 'sha256:aae05a70a39bacb1eea2cba468392fad30924b5024a1c6671938ce39a41dac15'}
+  - {seq: 1, filename: KR6a0076_001-T.yaml, hash: 'sha256:ea19b35beef0ca75c1714837456a77ae3e2413aa53e196bfb890f3d3d04c2610'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6a0076_000-T.markers.yaml, hash: 'sha256:182ee13c4aea79026afb8dadc4261565f83c85af77088fc1d7beb669dc4d7f89'}
+  - {seq: 1, role: markers, filename: assets/KR6a0076_001-T.markers.yaml, hash: 'sha256:a0f7e3bd6a10205765f0361b9c609c49501193701e868b542cd9244ded4f2cf8'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6a0076_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 3977
+  label: 梵摩渝經
+  type: juan
+  level: 1
+hash: sha256:81cf9ea4e309757f59586b3d4b009c8f08e995f859cd0003855a16ef3323b93c
