@@ -33,7 +33,7 @@ assets:
   - {seq: 0, filename: KR6a0076_000.yaml, hash: 'sha256:aae05a70a39bacb1eea2cba468392fad30924b5024a1c6671938ce39a41dac15'}
   - {seq: 1, filename: KR6a0076_001.yaml, hash: 'sha256:8171c509a1732fe36581bb921422740aebdf9a4ffffdc1840583fa936687adc2'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6a0076_000.markers.yaml, hash: 'sha256:9c624f329bbaeffc54a650762e2d78209827540894cbc7bb2358501ae5c9523d'}
+  - {seq: 0, role: markers, filename: assets/KR6a0076_000.markers.yaml, hash: 'sha256:eaac0d1fb53ddc38a13a5356555ada82bdc741c887d47ac13b918c8e8fc45df9'}
   - {seq: 1, role: markers, filename: assets/KR6a0076_001.markers.yaml, hash: 'sha256:80cf4dcd16aeeddab318f26dda19e0d5c3c128f489cf6b611e8849211c165493'}
 table_of_contents:
 - ref:
@@ -46,7 +46,7 @@ table_of_contents:
   label: 梵摩渝經
   type: juan
   level: 1
-hash: sha256:ea4dc4df9c9c99f661ec3b72c052618c65b8dd2f428a442415cf34b10694ff44
+hash: sha256:373acd10ff39610e5e02daff6c255418362711abd0b7457f48285ae7a80e4139
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
